@@ -104,18 +104,16 @@ Lab Goals:
 
   And take another look at your updated `db/schema.rb`!
 
-
-  <details><summary>What is Rake?</summary>
+What is Rake?
     Rake is Ruby Make, a standalone Ruby utility that replaces the Unix utility `make`, and uses a `Rakefile` and `.rake` files to build up a list of tasks. In Rails, Rake is used for common administration tasks, especially sophisticated ones that build off of each other.
 
 You can get a list of Rake tasks available to you, which will often depend on your current directory, by typing
 
-    ```bash
-    $rake --tasks
-    ```
+```bash
+$rake --tasks
+```
 
 Each task has a description, and should help you find the thing you need.
-  </details>
 
   Stop and commit!
 
