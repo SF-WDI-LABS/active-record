@@ -100,7 +100,7 @@ Lab Goals:
   git status # show the files you just created/edited!
   ```
 
-  > You may see errors if postgresql isn't configured/linked correctly on your machine. Flag down an instructor for help. As a last resort, download and then launch Postgres.app. You will see an elephant in your menu if it's running.
+  > You may see errors if postgresql isn't configured/linked correctly on your machine. Flag down an instructor for help or look at this Stack Overflow answer to manually <a href="https://stackoverflow.com/a/7975660">start the postgres server</a>. As a last resort, download and then launch Postgres.app. You will see an elephant in your menu if it's running.
 
   And take another look at your updated `db/schema.rb`!
 
